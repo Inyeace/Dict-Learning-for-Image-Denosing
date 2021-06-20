@@ -6,4 +6,4 @@ dictionary learning for image denoising
 * sicpy
 * matplotlib
 # :-)
-clone by https://zehtab.ir
+clone by https://github.com/AidinZe and https://github.com/msiplab
